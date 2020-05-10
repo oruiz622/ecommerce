@@ -1,0 +1,6 @@
+.env
+env
+cache
+composer
+node_modules
+vendor
